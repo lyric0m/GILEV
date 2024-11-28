@@ -109,6 +109,7 @@ p {
 
 .block {
 	text-align: center;
+    transition: 1s;
 }
 .block__img {
 	margin-bottom: 20px;
